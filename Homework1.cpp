@@ -25,7 +25,7 @@ int main(){
   // for even numbers in a range, we can use AP formula [ n(a+l)/2]
   int a= 20, l= 40;
   int m= ((l - a )/2) +1 ;
-  int even_num = (m * (a+ l)) /2;
-    cout << even_num;
+  int even_numm = (m * (a+ l)) /2;
+    cout << even_numm;
   
 }
