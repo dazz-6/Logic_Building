@@ -34,5 +34,5 @@ bool isPower(int x, int y){
 
 int main(){
   cout<< boolalpha;
-  cout << isPower(2,32);
+  cout << isPower(2,32);gi
 }
